@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Sun
+  - Wall
+  - PlayerProjectile
+  - Planet
+  - Cell
+  - Enemy
+  - Booster
+  - MainTrail
+  - WingTrail
+  - Projectile
+  - Boss
+  - Audio
+  - SceneLoader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerAttackRadius
+  - Enemy
+  - EnemyAttackRadius
+  - EnemiesDontCollide
+  - Asteroids
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

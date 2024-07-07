@@ -1,0 +1,145 @@
+{
+    "__comment__": "arranged from starting level to end level...Increase percents to make game harder in later stages",
+    "mapData": [
+        {
+            "levelData": [
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Drone"
+                    ],
+                    "percents": [
+                        0.07
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Ram"
+                    ],
+                    "percents": [
+                        0.06
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/MissileShip",
+                        "Prefabs/Enemies/Drone"
+                    ],
+                    "percents": [
+                        0.06,
+                        0.03
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/MissileShip",
+                        "Prefabs/Enemies/Drone",
+                        "Prefabs/Enemies/Ram"
+                    ],
+                    "percents": [
+                        0.01,
+                        0.02,
+                        0.1
+                    ]
+                }
+            ]
+        },
+        {
+            "levelData": [
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Drone",
+                        "Prefabs/Obstacle",
+                        "Prefabs/Enemies/Ram",
+                        "Prefabs/Enemies/MissileShip"
+                    ],
+                    "percents": [
+                        0.01,
+                        0.01,
+                        0.1,
+                        0.1
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Drone"
+                    ],
+                    "percents": [
+                        0.15
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/MissileShip",
+                        "Prefabs/Enemies/Drone",
+                        "Prefabs/Enemies/Ram"
+                    ],
+                    "percents": [
+                        0.1,
+                        0.1,
+                        0.1
+                    ]
+                }
+            ]
+        },
+        {
+            "levelData": [
+                {
+                    "prefabs": [
+                        "Prefabs/Obstacle",
+                        "Prefabs/Enemies/Ram",
+                        "Prefabs/Enemies/MissileShip"
+                    ],
+                    "percents": [
+                        0.1,
+                        0.2,
+                        0.2
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Drone"
+                    ],
+                    "percents": [
+                        0.4
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Ram"
+                    ],
+                    "percents": [
+                        0.4
+                    ]
+                },
+                {
+                    "prefabs": [
+                        "Prefabs/Enemies/Drone",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Holes_01",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Holes_02",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Holes_03",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Holes_04",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Holes_05",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Rock_01",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Rock_02",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Rock_03",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Rock_04",
+                        "Prefabs/Obstacles/SM_Env_Asteroid_Rock_05"
+                    ],
+                    "percents": [
+                        0.4,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                }
+            ]
+        }
+    ]
+}
