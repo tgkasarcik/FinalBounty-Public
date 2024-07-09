@@ -1,4 +1,3 @@
-# Final Bounty
 ![Goal-images-1](https://github.com/tgkasarcik/FinalBounty-Public/assets/77713266/803a7243-6ccc-4d09-b882-dba894c2b4d4)
 
 ![Goal-images-0](https://github.com/tgkasarcik/FinalBounty-Public/assets/77713266/84aca7e1-c022-4821-9772-ea283872c5fd)
