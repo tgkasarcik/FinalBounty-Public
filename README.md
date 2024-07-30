@@ -8,4 +8,11 @@ Final Bounty is an original space exploration and combat video game.  This proje
 ## [Trailer](http://www.youtube.com/watch?v=x0xJkJ7ULi0)
 
 ## Playing the Game
-In order to play the game, navigate to the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo and download the most recent release.
+There are currently two ways to play the game.  
+
+### Web Player
+The easiest (and recommended) way to play the game is by using the web player.  
+You can access it at [https://tgkasarcik.github.io/FinalBounty-WebGL/](https://tgkasarcik.github.io/FinalBounty-WebGL/)
+
+### Standalone
+A standalone build of the game can also be downloaded directly to your computer.  Windows is currently the only supported operating system.  In order to download the game, navigate to the [Releases](https://github.com/tgkasarcik/FinalBounty-Public/releases) section of this repo and download the most recent release.
